@@ -17,17 +17,17 @@ Hello I'm Dhirendra, a web developer from India.
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhirendravsingh&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=true&layout=compact) -->
 
-`
+
 <!-- ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
  -->
 
-`
+
 <!--  -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhirendravsingh/dhirendravsingh/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhirendravsingh/dhirendravsingh/output/github-snake.svg" />
