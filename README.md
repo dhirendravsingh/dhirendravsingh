@@ -11,16 +11,17 @@ Hello I'm Dhirendra, a web developer from India.
 <!-- ![](https://github-readme-stats.vercel.app/api?username=dhirendravsingh&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=true)<br/> -->
 
 ![](https://nirzak-streak-stats.vercel.app/?user=dhirendravsingh&theme=github_dark&hide_border=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dhirendravsingh&theme=github_dark&hide_border=false)<br/>
+
 </div>
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhirendravsingh&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=true&layout=compact) -->
 
 `
 ### ✍️ Random Dev Quote
-<div align="center">
-<!--  -->
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-</div>
+
 
 `
 <!--  -->
@@ -32,30 +33,6 @@ Hello I'm Dhirendra, a web developer from India.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhirendravsingh/dhirendravsingh/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/dhirendravsingh/dhirendravsingh/output/github-snake.svg" />
 </picture>
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dhirendravsingh&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dhirendravsingh&theme=gruvbox&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhirendravsingh&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=dhirendravsingh&icon=0&color=0)](https://visitcount.itsvg.in) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
 
 
 
