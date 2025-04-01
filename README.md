@@ -10,7 +10,7 @@ Hello I'm Dhirendra, a web developer from India.
 <div align="center">
 <!-- ![](https://github-readme-stats.vercel.app/api?username=dhirendravsingh&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=true)<br/> -->
 
-![](https://nirzak-streak-stats.vercel.app/?user=dhirendravsingh&theme=github_dark&hide_border=true)<br/>
+<!-- ![](https://nirzak-streak-stats.vercel.app/?user=dhirendravsingh&theme=github_dark&hide_border=true)<br/> -->
 ![](https://nirzak-streak-stats.vercel.app/?user=dhirendravsingh&theme=github_dark&hide_border=false)<br/>
 
 </div>
@@ -18,10 +18,10 @@ Hello I'm Dhirendra, a web developer from India.
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhirendravsingh&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=true&layout=compact) -->
 
 `
-### ✍️ Random Dev Quote
+<!-- ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
+ -->
 
 `
 <!--  -->
