@@ -15,11 +15,14 @@ Hello I'm Dhirendra, a web developer from India.
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhirendravsingh&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=true&layout=compact) -->
 
-
+`
 ### ✍️ Random Dev Quote
+<div align="center">
+<!--  -->
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+</div>
 
-
+`
 <!--  -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
