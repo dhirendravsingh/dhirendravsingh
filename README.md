@@ -34,8 +34,8 @@ I'm Dhirendra, a web developer from India.
   <img alt="github-snake" src="https://raw.githubusercontent.com/dhirendravsingh/dhirendravsingh/output/github-snake.svg" />
 </picture>
 
-<br/>
-<div align="center">
+
+<!-- <div align="center">
  <a href="https://www.linkedin.com/in/dhirendra-vikram-singh-53646b228/" target="_blank">
 <img src=https://img.shields.io/badge/Linkedin-blue
  alt=linkedin  />
@@ -51,7 +51,7 @@ I'm Dhirendra, a web developer from India.
 </a>
 
 
-</div>
+</div> -->
 
 
 <!-- <div align="center">
